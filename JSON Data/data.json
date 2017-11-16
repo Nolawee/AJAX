@@ -1,0 +1,19 @@
+{
+  "Name": "Jim",
+  "Phone": "503-555-1212"
+}
+
+[
+  {
+    "name": "Aimee",
+    "inoffice": false
+  },
+  {
+    "name": "John",
+    "inoffice": true
+  },
+  {
+    "name": "Tom",
+    "inoffice": false
+  }
+]
